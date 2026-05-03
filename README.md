@@ -14,15 +14,11 @@ These are called AI agents. And they are the most important and least understood
 What an AI agent actually is — and why it’s different
 Most people’s experience of AI is of responding nature, right. We give it a input something, it responds. We question, it answers. The AI always waits for us. We are in control.
 
-An AI agent is unique in one critical way: it acts proactively toward a goal without needing guidancen. We give it an objective — for e.g. “book me the cheapest flight to New Delhi next Thursday under 8000 rupees — and it goes and does it. It searches, compares, decides, and completes the task quicker than ever.
-
-Press enter or click to view image in full size
+An AI agent is unique in one critical way: it acts proactively toward a goal without needing guidancen. We give it an objective — for e.g. “book me the cheapest flight to New Delhi next Thursday under 8000 rupees — and it goes and does it. It searches, compares, decides, and completes the task quicker than ever on its own.
 
 The last line is the one that should make you stop in your tracks.
 
 Because that is the innovation and upgrade and difference of agentic ai.
-
-Press enter or click to view image in full size
 
 The shift that changes, well almost everything
 To understand why agents are different from every previous wave of software, you need to understand one concept: the difference between a tool and an actor/doer.
@@ -30,8 +26,6 @@ To understand why agents are different from every previous wave of software, you
 Every piece of software ever built before AI agents was just a tool. Tools do only what you tell them. A hammer drives the nail where you place it. Excel calculates the formula that you enter. Even early AIs — the chatbots, the image generators — were reactive. Just a tool waiting to be picked up.
 
 An AI agent is an actor/doer. It has a goal and it will do it. It has the ability to reason (that is unique) about how to reach that goal. Agentic AI can use other tools — browsers, APIs, code editors, email clients, databases — to pursue that goal. And critically, it does not stop and ask for permission at every single step. This is the X-factor that makes them truly different.
-
-Press enter or click to view image in full size
 
 Difference between AI and Agentic Ai
 
@@ -45,18 +39,13 @@ People also make mistakes. The difference between AI mistakes and human is speed
 
 When a human employee makes an error for e.g. — sends a wrong email, books the wrong flight, misreads a contract — it happens once, at human speed, and is usually caught before catastrophic damage happens. When an AI agent makes an error, it can possibly repeat that error thousands of times before anyone notices, because it never gets tired and never second-guesses itself (never stops).
 
-Press enter or click to view image in full size
-
 The problem is not that AI agents are careless its actually the opposite. It’s that they can possibly be relentlessly competent at the wrong thing. They usually have no intuition for the unmeasurable things that actually matter. The relationships. The exception that required human judgment. The thing that was a duplicate but shouldn’t have been deleted.
 
-Write on Medium
 “We taught AI to be productive. We forgot that sometimes inefficiency can be a kindness in disguise.”
 
 2. Accountability is quietly being removed
 Here is a question that sounds simple but is genuinely unresolved: when an AI agent makes a decision that harms someone, who is responsible (Teslas black box problem)?
 The developer who built the agent or the company that deployed the agent or the user who set the goal or the model that generated the reasoning.
-
-Press enter or click to view image in full size
 
 And this gap between rules and widespread deployment of AI agents in critical sectors of the world is even more acute in developing countries, where legislation if present is not enforced properly.
 
@@ -71,16 +60,10 @@ This does not mean human workers disappear overnight. It means the economic adva
 
 This will mean that startups the poster boys/girls of innovation shall be doomed on the onset if we take the pessimistic view. While once upon a time a young Apple disrupted Nokia there is now a chance that large cap companies with money will invest more in AI and will reap the benefits of it.
 
-Press enter or click to view image in full size
-
 So what do we have to do?
 I want to be clear: I am not saying that AI agents are bad. They are truly extraordinary. The ability to give complex multi-step tasks to an intelligent system is going to save millions of hours of human work, reduce errors in mechanical processes.
 
 But extraordinary technology deployed without adequate thought about its possible failures is how we end up with problems that take decades to fix. And right now, we are in a critical window — agents are real and being deployed, but the legislation, laws, and oversight systems for them barely exist.
-
-Press enter or click to view image in full size
-
-Press enter or click to view image in full size
 
 The question really worth asking
 Every major technology innovation in history — electricity, the internet, the smartphone — came just with a scenario like this. A time period where the technology existed, the applications were clear, the excitement was real, and the rules and laws hadn’t been written yet. What laws got passed changed everything that followed.
@@ -90,8 +73,6 @@ AI agents are that time period, currently. The decisions being made today — by
 One version of this story is utopian on paper: AI agents that handle the mechanical so humans can focus on the meaningful. AI Agents that extend and enhance human capability rather than replacing human judgment entirely. Technology that makes the resources of a large company available to a single innovator with a good idea.
 
 That version is possible with the right legislation
-
-Press enter or click to view image in full size
 
 “Let’s hope that I am just being pessimistic and thinking about this more than I probably should.”
 
