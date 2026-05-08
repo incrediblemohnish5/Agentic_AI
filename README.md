@@ -1,4 +1,4 @@
-# Agentic_AI
+# Agentic AI
 **AI Agents Are About to change Everything. And Nobody is talking About the scary Part.**
 
 Somewhere right now, an AI agent is booking a flight on someone’s behalf. Another is filing a support ticket. Another is writing and deploying code to a live server. Nobody pressed a button. Nobody is watching. This is not science fiction. This is happening right now in 2026.
